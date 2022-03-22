@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\Work\C++\Pong_OpenGL\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Work\C++\Pong_OpenGL\main.cpp(170,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\C++\Pong_OpenGL\main.cpp(191,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\C++\Pong_OpenGL\main.cpp(207,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Work\C++\Pong_OpenGL\main.cpp(207,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pong_OpenGL.vcxproj -> D:\Work\C++\Pong_OpenGL\x64\Debug\Pong_OpenGL.exe
